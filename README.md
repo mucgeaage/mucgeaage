@@ -1,5 +1,15 @@
 ## Hi there 👋
 
+A VPN client management application with Active Directory integration. Works hand in hand with vpn-connection-aggregator -> https://github.com/Bxaldy/vpn-connection-aggregator
+
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=rust,py,js,git,bash&scale=1.0&theme=dark" />
+  </a>
+</p>
+
+
+
 <!--
 **mucgeaage/mucgeaage** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
